@@ -1,0 +1,31 @@
+
+#wrap-body{
+    background-color:antiquewhite;
+    width: 920px;
+    margin:auto;
+}
+h1{
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+h2.first-heading{
+    border-style: dotted;
+    border-color:black;
+    color: red;
+    text-align: center;
+
+}
+h2#second-heading{
+    color: rgb(208, 16, 48);
+    text-align: center;
+}
+#wrap-footer{
+    text-align: center;
+    border-top: 1px solod;
+    width: 920px;
+    margin:auto;
+    background-color:orangered;
+    color:black;
+
+}
